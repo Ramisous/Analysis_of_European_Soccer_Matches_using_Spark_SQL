@@ -3,7 +3,7 @@ Solving analytical questions on the [European Soccer Database](https://www.kaggl
 
 # Table of Contents
 * [Components](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL#Major-Components)
-* [Analytical Queries](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL#Analytical-Queries)
+* [Analytical queries](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL#Analytical-Queries)
 * [Installation steps](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL#Installation-steps)	
 * [Mentions](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL#Mentions)
 
