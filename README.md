@@ -1,5 +1,5 @@
 # Overview
-Solving analytical questions on the [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer) using Spark and Scala. This features the use of SQL-like dataframe API to query structured data inside Spark programs. We aim to draw useful insights about different European leagues <img src="https://img.icons8.com/doodle/15/null/football2--v1.png"/>  by leveraging different forms of Spark APIs.
+Solving analytical questions on the [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer) <img src="https://img.icons8.com/doodle/15/null/football2--v1.png"/> using Spark and Scala. This features the use of SQL-like dataframe API to query structured data inside Spark programs. We aim to draw useful insights about different European leagues by leveraging different forms of Spark APIs.
 
 # Table of Contents
 
