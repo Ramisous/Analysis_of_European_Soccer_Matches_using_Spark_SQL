@@ -23,9 +23,12 @@ Solving analytical questions on the [European Soccer Database](https://www.kaggl
 </p>
 
 # Analytical Queries
-- [Easy level queries](/query_questions/easy_level_queries.md) ([solutions](/src/main/scala/easy_level_queries.scala))
-- [Medium level queries](/query_questions/medium_level_queries.md) ([solutions](/src/main/scala/medium_level_queries.scala))
-- [Hard level queries](/query_questions/hard_level_queries.md) ([solutions](/src/main/scala/hard_level_queries.scala))
+
+| Queries      | Solutions |
+| ----------- | ----------- |
+| [Easy level queries](/query_questions/easy_level_queries.md)      | [solutions](/src/main/scala/easy_level_queries.scala)     |
+| [Medium level queries](/query_questions/medium_level_queries.md)  | [solutions](/src/main/scala/medium_level_queries.scala)   |
+| [Hard level queries](/query_questions/hard_level_queries.md) | [solutions](/src/main/scala/hard_level_queries.scala)  |
 
 
 # Installation steps
