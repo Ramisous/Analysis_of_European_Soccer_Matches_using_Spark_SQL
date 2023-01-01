@@ -48,6 +48,9 @@ Solving analytical questions on the [European Soccer Database](https://www.kaggl
 - `hard_level_query`
 
 `master-url` : The master URL for the cluster (e.g. `spark://23.195.26.187:7077`)
+
+# Mentions
+This project was featured with [Kaggle](https://www.kaggle.com/) open source datasets. Thank you for the listing.
 	
 
 
