@@ -1,4 +1,4 @@
-name := "Match_analysis"
+name := "match_analysis"
 
 version := "1.0"
 
