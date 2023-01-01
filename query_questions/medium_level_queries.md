@@ -13,11 +13,11 @@ Using Spark and SparkSQL perform the following tasks:
 1. Select and show the win, draw and loss percentages when playing as a home team
     ``` 
     +----------------+---------------+----------+
-    |Home_team_result|Number_of_games|percentage|
+    |Home_team_result|Number_of_games|Percentage|
     +----------------+---------------+----------+
-    |             Win|           6748|     46.27|
-    |            Draw|           3739|     25.64|
-    |            Loss|           4098|      28.1|
+    |             Win|           6748|   46.27 %|
+    |            Draw|           3739|   25.64 %|
+    |            Loss|           4098|    28.1 %|
     +----------------+---------------+----------+
     ```
 2. Select and show the teams relegated from the French league in the 2010-2011 season
