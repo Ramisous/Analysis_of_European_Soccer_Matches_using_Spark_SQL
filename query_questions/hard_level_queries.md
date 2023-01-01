@@ -4,10 +4,15 @@ __Problem:__ Given csv files with football matches information, provide some ins
     
 __Driver/Main class:__ `hard_level_queries`
 
-__Solution Package:__ *[src/main/scala/hard_level_queries.scala](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL/blob/main/src/main/scala/hard_level_queries.scala)*
+__Solution Package:__ *[src/main/scala/hard_level_queries.scala](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL
+/blob/main/src/main/scala/hard_level_queries.scala)*
 
 # Questions
-You have the following tab delimited csv files [matchs.csv](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL/blob/main/data/matchs.csv), [league.csv](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL/blob/main/data/league.csv), [team.csv](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL/blob/main/data/team.csv), [country.csv](https://github.com/Ramisous/Analysis_of_European_Soccer_Matches_using_Spark_SQL/blob/main/data/country.csv)
+You have the following tab delimited csv files [matchs.csv](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL
+/blob/main/data/matchs.csv), [league.csv](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL
+/blob/main/data/league.csv), [team.csv](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL
+/blob/main/data/team.csv), [country.csv](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL
+/blob/main/data/country.csv)
 
 Using Spark and SparkSQL perform the following tasks: 
 1. Find and show the final table of the Spanish league for the 2010/2011 season
