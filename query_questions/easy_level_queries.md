@@ -1,6 +1,6 @@
 # Problem Scenario 1
 
-__Problem:__ *Given csv files with football matches information, provide some insights using Spark SQL APIs. 
+__Problem:__ Given csv files with football matches information, provide some insights using Spark SQL APIs. 
     
 __Driver/Main class:__ easy_level_queries
 
