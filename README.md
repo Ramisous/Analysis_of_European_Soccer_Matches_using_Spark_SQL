@@ -1,15 +1,15 @@
-![GitHub language count](https://img.shields.io/github/languages/count/Ramisoussi/Analysis_Soccer_Matches_using_SparkSQL?color=%23FFA500&logo=github)
-![GitHub top language](https://img.shields.io/github/languages/top/Ramisoussi/Analysis_Soccer_Matches_using_SparkSQL?logo=Github)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ramisoussi/Analysis_Soccer_Matches_using_SparkSQL?logo=Github)
+![GitHub language count](https://img.shields.io/github/languages/count/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL?color=%23FFA500&logo=github)
+![GitHub top language](https://img.shields.io/github/languages/top/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL?logo=Github)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL?logo=Github)
 
 # Overview
 Solving analytical questions on the [European Soccer Database](https://www.kaggle.com/datasets/hugomathien/soccer) <img src="https://img.icons8.com/doodle/15/null/football2--v1.png"/> using Spark and Scala. This features the use of SQL-like dataframe API to query structured data inside Spark programs. We aim to draw useful insights about different European leagues by leveraging different forms of Spark APIs.
 
 # Table of Contents
-* [Components](https://github.com/Ramisoussi/Analysis_Soccer_Matches_using_SparkSQL#Major-Components)
-* [Analytical queries](https://github.com/Ramisoussi/Analysis_Soccer_Matches_using_SparkSQL#Analytical-Queries)
-* [Installation steps](https://github.com/Ramisoussi/Analysis_Soccer_Matches_using_SparkSQL#Installation-steps)	
-* [Mentions](https://github.com/Ramisoussi/Analysis_Soccer_Matches_using_SparkSQL#Mentions)
+* [Components](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL#Major-Components)
+* [Analytical queries](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL#Analytical-Queries)
+* [Installation steps](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL#Installation-steps)	
+* [Mentions](https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL#Mentions)
 
 
 # Major Components
@@ -35,7 +35,7 @@ Solving analytical questions on the [European Soccer Database](https://www.kaggl
 
 1. Simply clone the repository
 	```
-	git clone https://github.com/Ramisoussi/Analysis_Soccer_Matches_using_SparkSQL.git
+	git clone https://github.com/Ramisoussi/Analysis_of_Soccer_Matches_using_SparkSQL.git
 	```
 2. In the repo, run `sbt` command to package the project as a JAR file
 	```
