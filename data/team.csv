@@ -1,0 +1,165 @@
+id,team_id,team_long_name,team_short_name
+11822,4087,Évian Thonon Gaillard FC,ETG
+10312,4170,US Boulogne Cote D'Opale,BOU
+22805,6269,Novara,NOV
+14876,6391,GFC Ajaccio,GAJ
+12594,7794,SC Bastia,BAS
+9540,7819,SM Caen,CAE
+47612,7869,Córdoba CF,COR
+45330,7878,Granada CF,GRA
+24288,7943,Sassuolo,SAS
+14868,8121,Angers SCO,ANG
+16850,8152,FC St. Pauli,STP
+16239,8165,1. FC Nürnberg,NUR
+15626,8177,Hertha BSC Berlin,HBE
+15619,8178,Bayer 04 Leverkusen,LEV
+4234,8191,Burnley,BUR
+18074,8194,Fortuna Düsseldorf,FDU
+8021,8197,Leicester City,LEI
+15630,8226,TSG 1899 Hoffenheim,HOF
+19916,8234,FC Ingolstadt 04,ING
+19917,8262,SV Darmstadt 98,DAR
+15633,8295,Karlsruher SC,KAR
+43044,8302,Sevilla FC,SEV
+43046,8305,Getafe CF,GET
+48358,8306,UD Las Palmas,LAS
+43051,8315,Athletic Club de Bilbao,BIL
+7276,8344,Cardiff City,CAR
+16848,8350,1. FC Kaiserslautern,KAI
+18079,8357,SpVgg Greuther Fürth,GRF
+16237,8358,SC Freiburg,FRE
+45333,8370,Rayo Vallecano,RAY
+43037,8371,CA Osasuna,OSA
+47605,8372,SD Eibar,EIB
+43041,8388,CD Numancia,NUM
+43803,8394,Real Zaragoza,ZAR
+15629,8398,FC Energie Cottbus,COT
+17465,8406,FC Augsburg,AUG
+3475,8455,Chelsea,CHE
+3466,8456,Manchester City,MCI
+19305,8460,SC Paderborn 07,PAD
+3476,8462,Portsmouth,POR
+6504,8466,Southampton,SOU
+3461,8472,Sunderland,SUN
+43048,8479,RC Recreativo,HUE
+9549,8481,AS Nancy-Lorraine,NAN
+4996,8483,Blackpool,BLA
+11076,8521,Stade Brestois 29,BRE
+20513,8524,Atalanta,ATA
+3464,8528,Wigan Athletic,WIG
+20515,8529,Cagliari,CAG
+20517,8530,Catania,CAT
+20519,8533,Chievo Verona,CHI
+25048,8534,Empoli,EMP
+20521,8535,Fiorentina,FIO
+21285,8537,Livorno,LIV
+20532,8540,Palermo,PAL
+20516,8543,Lazio,LAZ
+3469,8549,Middlesbrough,MID
+14106,8550,FC Metz,MET
+20514,8551,Siena,SIE
+43049,8558,RCD Espanyol,ESP
+3471,8559,Bolton Wanderers,BOL
+44569,8560,Real Sociedad,SOC
+20523,8564,Milan,ACM
+11817,8576,AC Ajaccio,AJA
+44565,8581,Levante UD,LEV
+9537,8583,AJ Auxerre,AUX
+3470,8586,Tottenham Hotspur,TOT
+10300,8588,RC Lens,LEN
+9552,8592,Olympique de Marseille,MAR
+20531,8600,Udinese,UDI
+4225,8602,Wolverhampton Wanderers,WOL
+43047,8603,Real Betis Balompié,BET
+43040,8633,Real Madrid,REA
+43042,8634,FC Barcelona,BAR
+20528,8636,Inter,INT
+9550,8639,LOSC Lille,LIL
+3462,8650,Liverpool,LIV
+3463,8654,West Ham United,WHU
+3468,8655,Blackburn Rovers,BLB
+4218,8658,Birmingham City,BIR
+3460,8659,West Bromwich Albion,WBA
+43036,8661,RCD Mallorca,MAL
+3473,8667,Hull City,HUL
+3467,8668,Everton,EVE
+8779,8678,Bournemouth,BOU
+9543,8682,Le Mans FC,LEM
+20525,8686,Roma,ROM
+9544,8689,FC Lorient,LOR
+20520,8690,Reggio Calabria,REG
+43043,8696,Racing Santander,SAN
+15628,8697,SV Werder Bremen,WBR
+15623,8721,VfL Wolfsburg,WOL
+15624,8722,1. FC Köln,FCK
+9541,9746,Le Havre AC,LEH
+13343,9747,En Avant de Guingamp,GUI
+9545,9748,Olympique Lyonnais,LYO
+18691,9776,Eintracht Braunschweig,BRA
+43039,9783,RC Deportivo de La Coruña,COR
+15631,9788,Borussia Mönchengladbach,GLA
+15620,9789,Borussia Dortmund,DOR
+15618,9790,Hamburger SV,HAM
+6509,9798,Reading,REA
+20529,9804,Torino,TOR
+15625,9810,Eintracht Frankfurt,EFR
+8784,9817,Watford,WAT
+15617,9823,FC Bayern Munich,BMU
+3459,9825,Arsenal,ARS
+7261,9826,Crystal Palace,CRY
+9539,9827,Girondins de Bordeaux,BOR
+9547,9829,AS Monaco,MON
+9538,9830,FC Nantes,NAN
+9542,9831,OGC Nice,NIC
+11825,9836,Dijon FCO,DIJ
+12587,9837,Stade de Reims,REI
+9548,9847,Paris Saint-Germain,PSG
+5756,9850,Norwich City,NOR
+9551,9851,Stade Rennais FC,REN
+9556,9853,AS Saint-Étienne,ETI
+9554,9855,Grenoble Foot 38,GRE
+20524,9857,Bologna,BOL
+22044,9858,Brescia,BRE
+43054,9864,Málaga CF,MAL
+43052,9865,UD Almería,ALM
+43804,9867,CD Tenerife,TEN
+43800,9868,Xerez Club Deportivo,XER
+43045,9869,Real Sporting de Gijón,SPG
+9555,9873,Valenciennes FC,VAL
+9553,9874,FC Sochaux-Montbéliard,SOC
+20526,9875,Napoli,NAP
+24273,9876,Hellas Verona,VER
+23523,9878,Pescara,PES
+3474,9879,Fulham,FUL
+22042,9880,Cesena,CES
+20527,9882,Sampdoria,SAM
+20522,9885,Juventus,JUV
+20530,9888,Lecce,LEC
+25791,9891,Frosinone,FRO
+15622,9904,Hannover 96,HAN
+16243,9905,1. FSV Mainz 05,MAI
+43053,9906,Atlético Madrid,AMA
+46087,9910,RC Celta de Vigo,CEL
+15634,9911,VfL Bochum,BOC
+15627,9912,DSC Arminia Bielefeld,BIE
+9546,9941,Toulouse FC,TOU
+21280,9976,Bari,BAR
+5744,10003,Swansea City,SWA
+21292,10167,Parma,PAR
+5747,10172,Queens Park Rangers,QPR
+15621,10189,FC Schalke 04,S04
+3472,10194,Stoke City,STK
+43038,10205,Villarreal CF,VIL
+20518,10233,Genoa,GEN
+12595,10242,ES Troyes AC,TRO
+10309,10249,Montpellier Hérault SC,MON
+3465,10252,Aston Villa,AVL
+3457,10260,Manchester United,MUN
+3458,10261,Newcastle United,NEW
+43035,10267,Valencia CF,VAL
+46848,10268,Elche CF,ELC
+15632,10269,VfB Stuttgart,STU
+44557,10278,Hércules Club de Fútbol,HER
+43050,10281,Real Valladolid,VAL
+11074,108893,AC Arles-Avignon,ARL
+25804,208931,Carpi,CAP
