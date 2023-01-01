@@ -3,6 +3,8 @@ Solving analytical questions on the [European Soccer Database](https://www.kaggl
 
 # Table of Contents
 
+
+# Major Components
 <p align="center">
 	<a href="#">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark Logo" title="Apache Spark" width=180 hspace=10 />
@@ -16,5 +18,9 @@ Solving analytical questions on the [European Soccer Database](https://www.kaggl
 		<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Sbt-logo.svg" alt="SBT" title="SBT" width =80 />
 	</a>
 </p>
+
+# Analytical Queries
+
+
 
 
