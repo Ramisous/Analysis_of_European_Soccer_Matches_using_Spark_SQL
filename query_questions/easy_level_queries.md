@@ -115,7 +115,7 @@ Using Spark and SparkSQL perform the following tasks:
     +---------+-----+-----------------------+-----+-------------------------+
     ``` 
 
-7. Select and show the ranking of leagues according to the number of goals scored
+7. Select and show the ranking of leagues according to the number of goals scored in the 2014/2015 season
     ``` 
     +----------------------+----------------------+
     |League_name           |Number_of_goals_scored|
