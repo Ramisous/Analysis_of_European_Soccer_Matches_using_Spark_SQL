@@ -82,7 +82,7 @@ Using Spark and SparkSQL perform the following tasks:
     ``` 
 
 
-5. Select and show the results of the last stage games in the English league
+5. Select and show the results of the last stage games in the English league in the 2011/2012 season
     ``` 
     +---------+-----+--------------------+-----+-----------------------+
     |season   |stage|Home team           |Score|Away team              |
