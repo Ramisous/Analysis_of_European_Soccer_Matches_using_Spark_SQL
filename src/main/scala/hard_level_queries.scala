@@ -132,7 +132,7 @@ object hard_level_queries {
         .show()
 
 
-        //4. Find and show the team with the longest losing streak 
+        //5. Find and show the team with the longest losing streak 
 
         println("SHOWING: The team with the longest losing streak") 
 
